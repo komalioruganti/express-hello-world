@@ -67,7 +67,7 @@
     const apikey = "<%= apikey %>"
     const keyword = "<%= article_keyword %> ";
 
-    const url = "http://api.mediastack.com/v1/news?access_key=" + apikey + "&keywords=" + keyword + " education&languages=en&limit=10";
+    const url = "https://api.mediastack.com/v1/news?access_key=" + apikey + "&keywords=" + keyword + " education&languages=en&limit=10";
 
     fetch(url)
       .then((response) => {
