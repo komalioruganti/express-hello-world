@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(253, 247, 227, 1);
+  margin: 0;
+}
+
+.date {
+  margin-left: 65rem;
+  text-align: center;
+  width: 10rem;
+  height: 2rem;
+  background-color: #FFA09F;
+  border-radius: 2rem;
+  font-family: Playfair Display;
+}
+.input-group{
+  width: 60rem;
+  height:3rem;
+  background-color: white;
+  margin-left: 12rem;
+  margin-top: 2rem;
+  position:absolute;
+  top:23rem;
+  
+}  
+.search-img{
+  width:20rem;
+  position: absolute;
+  left:30rem;
+  top:2rem;
+}

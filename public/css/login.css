@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    text-align: center;
+    
+}
+.login-form{
+    background-color: antiquewhite;
+    height:30rem;
+    width:20rem;
+   margin:3% auto 0 auto;
+   border-radius: 15%;
+}
+h1{
+    padding-top:20%;
+}
+.input{
+    padding: 10px;
+    margin:10px;
+
+}
